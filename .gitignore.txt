@@ -1,1 +1,1 @@
-Teste ignorando arquivo
+node_module/*
